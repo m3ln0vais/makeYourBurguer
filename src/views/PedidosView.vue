@@ -1,5 +1,10 @@
 <template>
   <div>
-    <h1>pedidos</h1>
+    <div class="main-container">
+      <h1>Gerenciar pedidos:</h1>
+      <Dashboard />
+    </div>
   </div>
 </template>
+
+
