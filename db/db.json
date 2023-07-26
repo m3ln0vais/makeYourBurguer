@@ -83,37 +83,10 @@
       "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
-        "Bacon",
-        "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
-    },
-    {
-      "nome": "teste",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Cheddar",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "mel",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Pepino",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 3
     }
   ]
 }

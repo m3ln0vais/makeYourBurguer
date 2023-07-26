@@ -7,4 +7,13 @@
   </div>
 </template>
 
+<script>
+import Dashboard from '../components/Dashboard'
 
+export default {
+  name: 'Pedidos',
+  components: {
+    Dashboard
+  }
+}
+</script>
